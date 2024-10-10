@@ -64,6 +64,15 @@ body {
     background-color: #FF7043;
     color: white;
   }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    
+  }
   
   .clear:hover {
     background-color: #E64A19;
